@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-33a23463","path":"/dreambooth/","title":"Dreambooth \u8BAD\u7EC3","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"filePathRelative":"dreambooth/index.md"}');export{e as data};
